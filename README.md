@@ -1,4 +1,5 @@
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/logo1.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Logos/logo1.png" width="500">
+
 
 # Bomb & Run
 # Equipo: Shadows web
@@ -9,7 +10,7 @@
 ### Juegos en red
 [![Alt text](https://img.youtube.com/vi/GmH22eA9Htw/0.jpg)](https://www.youtube.com/watch?v=GmH22eA9Htw)
 ## 1.0-Introducción
-Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D gracias al motor Unity. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
+Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
 
 
 ### 1.1-Concepto
@@ -31,6 +32,8 @@ Este videojuego se basa en:
 ⦁	Uso de estrategia: Es un juego que a primera vista puede ser sencillo pero si se quiere ganar al rival será necesario ser consciente del tiempo de juego, el mapa y los puntos que se pueden llegar a conseguir tanto tú como el enemigo para poder vencer.
 
 ⦁	Competitivo: Bomb & Run pretende lograr un enfrentamiento tenso entre los jugadores.
+
+⦁	Publico: El juego está diseñado principalmente para jóvenes de entre 10-18 aunque cualquiera puede jugarlo y divertirse sin tener en cuenta la edad siempre que le gusten los retos.
 
 ### 1.3-Género
 
