@@ -1,0 +1,5 @@
+
+Aunque la calificación final obtenida ha sido un 5, la entrega está muy pobre tal y como os comenté en clase. Deberíais valorar si os merece la pena reentregar esta fase de cara a la convocatoria extraordinaria. Por un lado, el uso de los métodos HTTP no es el indicado. 
+Por otro, habría sido deseable que hubierais añadido funcionalidades más complejas que ilustraran mejor el uso de API REST.
+
+Recordaros que tal y como se especifica en la guía docente, las fases recuperadas tenían una nota máxima de 8 (ya que tenéis mucho más tiempo y oportunidades que los compañeros que entregaron). Por lo tanto las calificaciones son sobre 8 puntos máximo.
