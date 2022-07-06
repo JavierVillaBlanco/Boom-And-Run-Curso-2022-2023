@@ -198,25 +198,25 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ## 4.0-Arte
 ### 4.1- Interfaces de juego
 - Esquema de pantallas
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart4.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/Flowchart4.png" width="500">
 
 - Menú principal
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu3.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/menu3.png" width="500">
 
 - Login
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/login.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/login.png" width="500">
 
 - LeaderBoard
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/top.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/top.png" width="500">
 
 - Tutorial
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/tuto.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/tuto.png" width="500">
 
 - Selección de personaje (On-Line)
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/charSelect3.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Interfaz/charSelect3.png" width="500">
 
 - Mapa
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/mapa1.png" width="500">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/Mapas/Map002.png" width="500">
 
 - Final de juego
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/final.png" width="500">
