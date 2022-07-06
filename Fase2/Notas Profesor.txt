@@ -1,0 +1,7 @@
+La interfaz estaría mejor centrada y un poco más grande
+Está bien que se pueda usar el ratón para los controles, pero el puntero debería cambiar cuando se pasa por opciones que permiten interactuar
+Las opciones no implementadas (tutorial, opciones) no deberían parecer accesibles
+Echo en falta créditos en el juego
+No está nada claro el objetivo del juego ni la condición de victoria
+No están claros los controles
+Valoro positivamente el esfuerzo en la creación de assets, pero el juego está muy mejorable.
