@@ -1,0 +1,5 @@
+En el GDD decís literalmente "Se desarrollará en 2D gracias al motor Unity" (no entiendo qué tiene que ver Unity aquí).
+Al margen de lo anterior, el documento es bastante completo, aunque la presentación es mejorable. 
+Por ejemplo: Figuras y tablas no tienen tamaños ni alineaciones uniformes a lo largo del documento. 
+Las secciones no deben llevar un enumerado de subsección: 1. Introducción (no 1.0. Introducción), etc.
+Echo en falta detallar el público objetivo
