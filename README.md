@@ -104,8 +104,10 @@ Los tres personajes jugables son:
 -Hirosaki : Se trata de un soldado japonés dispuesto a todo para ganar, o más bien para derrotar a sus enemigos, haciendo de kamikaze si es necesario, pues sus bombas explotarán sin casi tiempo para reaccionar. Su bomba es  Fatboi.
 
 La referencia cultural de este personaje es los kamikazes japoneses de la segunda guerra mundial que pilotaban los aviones hasta estrellarlos contra los buques estadounidenses.
-
-![Kiyoshi Ogawa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_%28new%29.png/245px-Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_%28new%29.png) El piloto suicida Kiyoshi Okawa, quien voló e impactó su avión contra el USS Bunker Hill (CV-17) el 11 de mayo de 1945.
+<p align="center">
+![Kiyoshi Ogawa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_%28new%29.png/245px-Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_%28new%29.png) 
+</p>
+El piloto suicida Kiyoshi Okawa, quien voló e impactó su avión contra el USS Bunker Hill (CV-17) el 11 de mayo de 1945.
 
 -Pavlichenko: Mujer soldado rusa que participó en la segunda guerra mundial con sus dotes de francotiradora. Su bomba es Nagant.
 La referencia cultural de este personaje es la famosa mujer rusa, Liudmila Mijáilivna Pavlichenko que participó en la segunda guerra mundial como francotiradora luchando contra los nazis.
@@ -206,7 +208,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ## 4-Arte
 ### 4.1- Interfaces de juego
 - Esquema de pantallas
-- <p align="center">
+-<p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/Flowchart4.png" width="500">
 </p>
 - Menú principal
@@ -254,7 +256,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 
 ### 4.3- Bombas
 - Fatboi 
-- <p align="center">
+-<p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/BombaJapo.png" width="500">
 </p>
 - Nagant 
