@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Logos/logo1.png" width="1000">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Logos/logo1.png" width="500">
 </p>
 
 # Bomb & Run
