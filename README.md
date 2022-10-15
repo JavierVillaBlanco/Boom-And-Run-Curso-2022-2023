@@ -4,7 +4,7 @@
 
 # Bomb & Run
 # Equipo: Shadows web
-# Miembros: J
+# Miembros del equipo: 
 -Jorge Cambero Mogena  	Correo:	j.cambero.2019@alumnos.urjc.es 
 
 -Félix Vilches Guzmán	Correo:	f.vilches.2019@alumnos.urjc.es	
