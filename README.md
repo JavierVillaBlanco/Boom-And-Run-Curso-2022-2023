@@ -104,20 +104,20 @@ Los tres personajes jugables son:
 -Hirosaki : Se trata de un soldado japonés dispuesto a todo para ganar, o más bien para derrotar a sus enemigos, haciendo de kamikaze si es necesario, pues sus bombas explotarán sin casi tiempo para reaccionar. Su bomba es  Fatboi.
 
 La referencia cultural de este personaje es los kamikazes japoneses de la segunda guerra mundial que pilotaban los aviones hasta estrellarlos contra los buques estadounidenses.
-<p align="center">
+
 ![Kiyoshi Ogawa](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_%28new%29.png/245px-Ensign_Kiyoshi_Ogawa_hit_Bunker_Hill_%28new%29.png) 
-</p>
+
 El piloto suicida Kiyoshi Okawa, quien voló e impactó su avión contra el USS Bunker Hill (CV-17) el 11 de mayo de 1945.
 
 -Pavlichenko: Mujer soldado rusa que participó en la segunda guerra mundial con sus dotes de francotiradora. Su bomba es Nagant.
 La referencia cultural de este personaje es la famosa mujer rusa, Liudmila Mijáilivna Pavlichenko que participó en la segunda guerra mundial como francotiradora luchando contra los nazis.
-<p align="center">
+
 <img src="https://static3.abc.es/media/historia/2017/10/25/pavlichenko-ke0E--1240x698@abc.jpg" width="500">
-</p>
+
 -Citron: Robot de desactivación de bombas que es capaz de manejar sus bombas de forma remota y estallarlas cuando él desea. Su bomba es C4. 
 <p align="center">
 <img src="https://i.ytimg.com/vi/n5NeTECx6Fo/maxresdefault.jpg" width="500">
-</p>
+
 La referencia cultural de este personaje se basa en los robots actuales encargados de la desactivación de artefactos explosivos.
 
 ### 2.5- Powerups
