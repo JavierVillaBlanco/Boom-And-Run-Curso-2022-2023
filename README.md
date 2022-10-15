@@ -284,7 +284,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ### 4.5- Fondos
 
 - Fondos del menú 
-- <p align="center">
+<p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/fondo.jpg" width="500">
 </p>
 
