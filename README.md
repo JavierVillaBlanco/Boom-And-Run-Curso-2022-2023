@@ -256,7 +256,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 
 ### 4.3- Bombas
 - Fatboi 
--<p align="center">
+<p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/BombaJapo.png" width="500">
 </p>
 - Nagant 
