@@ -12,7 +12,6 @@
 -Javier Villa Blanco	Correo:	j.villa.2019@alumnos.urjc.es
 
 ## Documento de Diseño de Juego
-### 27 de octubre de 2021
 ### Grado en Diseño y Desarrolo de Videojuegos
 ### URJC, Campus de Móstoles
 ### Juegos en red
