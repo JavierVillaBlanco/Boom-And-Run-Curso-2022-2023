@@ -1,5 +1,6 @@
-<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Logos/logo1.png" width="500">
-
+<p align="center">
+<img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Logos/logo1.png" width="1000">
+</p>
 
 # Bomb & Run
 # Equipo: Shadows web
@@ -9,9 +10,9 @@
 ### URJC, Campus de Móstoles
 ### Juegos en red
 
-<p align="center">
+
 [![Alt text](https://img.youtube.com/vi/GmH22eA9Htw/0.jpg)](https://www.youtube.com/watch?v=GmH22eA9Htw)
-</p>
+
 ## 1-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
 
