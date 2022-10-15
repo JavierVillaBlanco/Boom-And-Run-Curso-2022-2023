@@ -11,7 +11,7 @@
 ### Juegos en red
 
 
-<img src=[![Alt text](https://img.youtube.com/vi/GmH22eA9Htw/0.jpg)](https://www.youtube.com/watch?v=GmH22eA9Htw)>
+[![Alt text](https://img.youtube.com/vi/GmH22eA9Htw/0.jpg)](https://www.youtube.com/watch?v=GmH22eA9Htw)
 
 ## 1-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
@@ -109,13 +109,13 @@ La referencia cultural de este personaje es los kamikazes japoneses de la segund
 
 -Pavlichenko: Mujer soldado rusa que participó en la segunda guerra mundial con sus dotes de francotiradora. Su bomba es Nagant.
 La referencia cultural de este personaje es la famosa mujer rusa, Liudmila Mijáilivna Pavlichenko que participó en la segunda guerra mundial como francotiradora luchando contra los nazis.
-
+<p align="center">
 <img src="https://static3.abc.es/media/historia/2017/10/25/pavlichenko-ke0E--1240x698@abc.jpg" width="500">
-
+</p>
 -Citron: Robot de desactivación de bombas que es capaz de manejar sus bombas de forma remota y estallarlas cuando él desea. Su bomba es C4. 
-
+<p align="center">
 <img src="https://i.ytimg.com/vi/n5NeTECx6Fo/maxresdefault.jpg" width="500">
-
+</p>
 La referencia cultural de este personaje se basa en los robots actuales encargados de la desactivación de artefactos explosivos.
 
 ### 2.5- Powerups
@@ -206,51 +206,65 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ## 4-Arte
 ### 4.1- Interfaces de juego
 - Esquema de pantallas
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/Flowchart4.png" width="500">
-
+</p>
 - Menú principal
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/menu3.png" width="500">
-
+</p>
 - Login
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/login.png" width="500">
-
+</p>
 - LeaderBoard
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/top.png" width="500">
-
+</p>
 - Tutorial
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/tuto.png" width="500">
-
+</p>
 - Selección de personaje (On-Line)
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Documentos/imagenes/Interfaz/charSelect3.png" width="500">
-
+</p>
 - Mapa
+- <p align="center">
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/Mapas/Map002.png" width="500">
-
+</p>
 - Final de juego
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/final.png" width="500">
-
+</p>
 ### 4.2 - Personajes
 - Pavlichenko 
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/Personajes/RusaconFondo.png" width="500">
-
+</p>
 - Hirosaki 
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/Personajes/JapoConfondo.png" width="500">
-
+</p>
 - Citron
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/Personajes/RobotConFondo.png" width="500">
-
+</p>
 
 
 ### 4.3- Bombas
 - Fatboi 
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/BombaJapo.png" width="500">
-
+</p>
 - Nagant 
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/BombaURSS.png" width="500">
-
+</p>
 - C4 
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/C4.png" width="500">
-
+</p>
 
 ### 4.4- Powerups
 
@@ -268,8 +282,9 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ### 4.5- Fondos
 
 - Fondos del menú 
+- <p align="center">
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/fondo.jpg" width="500">
-
+</p>
 
 ## 5 Música y efectos de sonido
 ### 5.1- Música
