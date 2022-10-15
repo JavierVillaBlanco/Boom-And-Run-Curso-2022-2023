@@ -21,7 +21,11 @@ serán su única herramienta para destruir partes del mapa y sobre todo eliminar
 
 Los personajes tendrán un tiempo limitado para ganar puntos antes de que el escenario se destruya y se pase a un nivel inferior. El combate se desarrolla encima de una montaña. Al principio en su ladera, después en el interior de la montaña y finalmente en el interior de la tierra . Para terminar, el jugador más destructivo, es decir, el que más puntos consiga; será el ganador y coronado como el rey del caos.
 
- ### 1.2-Características
+###1.2-Publico objetivo
+
+Respecto al publico que podria estar inteeresado en Bomb & Ru, serian jugadores casuales a los que le gusta pasar un buen rato jugando con otras personas y no solo contra la maquina, ya que eso le aburre. Uno de los publicos a los que más le gustaria y jugaria Bomb & Run seria la gente a la que le gustan los tipos de juego arcade y que tengan algo de acción, jugadores a los que les gusta jugar juegos indies nuevos.
+
+ ### 1.3-Características
  
 Este videojuego se basa en:
 
@@ -35,7 +39,7 @@ Este videojuego se basa en:
 
 ⦁	Publico: El juego está diseñado principalmente para jóvenes de entre 10-18 aunque cualquiera puede jugarlo y divertirse sin tener en cuenta la edad siempre que le gusten los retos.
 
-### 1.3-Género
+### 1.4-Género
 
 Se podría encajar en tres géneros:
 
@@ -45,7 +49,7 @@ Se podría encajar en tres géneros:
 
 ⦁	Maze game: toda la partida se desarrolla en un laberinto forzando una acción rápida del jugador para superar oponentes en un límite de tiempo.
 
-### 1.4-Jugabilidad
+### 1.5-Jugabilidad
 
 Bomb & Run consta de tres mapas diferentes, aunque todos comparten la ambientación de una montaña, como ya se explicó con anterioridad, iniciamos en una ladera, el siguiente nivel es el interior de la montaña y finalmente el interior de la tierra. El objetivo es obtener el mayor número de puntos antes de terminar el último mapa.
 De forma resumida el juego se basa en:
@@ -60,7 +64,7 @@ De forma resumida el juego se basa en:
 
 ⦁	Powerups para el personaje y las bombas.
 	
-### 1.5-Estilo visual
+### 1.6-Estilo visual
 
 Se trata de un juego con un estilo visual sencillo, con estética pixel art. Cada escenario y personaje, así como los iconos del menú, seguirán una línea visual simple y llamativa. Habrá tres mapas disponibles, cada uno de ellos con un aspecto distintivo para indicar claramente la zona en la que se desarrolla la partida. De igual forma, los personajes que participen en la partida también serán fácilmente identificables. 	
 
