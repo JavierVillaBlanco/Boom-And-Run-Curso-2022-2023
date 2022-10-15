@@ -8,7 +8,10 @@
 ### Grado en Diseño y Desarrolo de Videojuegos
 ### URJC, Campus de Móstoles
 ### Juegos en red
+
+<p align="center">
 [![Alt text](https://img.youtube.com/vi/GmH22eA9Htw/0.jpg)](https://www.youtube.com/watch?v=GmH22eA9Htw)
+</p>
 ## 1-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
 
