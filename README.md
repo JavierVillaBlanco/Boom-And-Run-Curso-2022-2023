@@ -25,7 +25,7 @@ serán su única herramienta para destruir partes del mapa y sobre todo eliminar
 
 Los personajes tendrán un tiempo limitado para ganar puntos antes de que el escenario se destruya y se pase a un nivel inferior. El combate se desarrolla encima de una montaña. Al principio en su ladera, después en el interior de la montaña y finalmente en el interior de la tierra . Para terminar, el jugador más destructivo, es decir, el que más puntos consiga; será el ganador y coronado como el rey del caos.
 
-###1.2-Publico objetivo
+### 1.2-Publico objetivo
 
 Respecto al publico que podria estar inteeresado en Bomb & Ru, serian jugadores casuales a los que le gusta pasar un buen rato jugando con otras personas y no solo contra la maquina, ya que eso le aburre. Uno de los publicos a los que más le gustaria y jugaria Bomb & Run seria la gente a la que le gustan los tipos de juego arcade y que tengan algo de acción, jugadores a los que les gusta jugar juegos indies nuevos.
 
