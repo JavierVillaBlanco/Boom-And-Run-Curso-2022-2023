@@ -9,7 +9,7 @@
 ### URJC, Campus de Móstoles
 ### Juegos en red
 [![Alt text](https://img.youtube.com/vi/GmH22eA9Htw/0.jpg)](https://www.youtube.com/watch?v=GmH22eA9Htw)
-## 1.0-Introducción
+## 1-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
 
 
@@ -64,7 +64,7 @@ De forma resumida el juego se basa en:
 
 Se trata de un juego con un estilo visual sencillo, con estética pixel art. Cada escenario y personaje, así como los iconos del menú, seguirán una línea visual simple y llamativa. Habrá tres mapas disponibles, cada uno de ellos con un aspecto distintivo para indicar claramente la zona en la que se desarrolla la partida. De igual forma, los personajes que participen en la partida también serán fácilmente identificables. 	
 
-## 2.0-Mecánicas
+## 2-Mecánicas
 ### 2.1- Jugabilidad
 La jugabilidad de Bomb & Run se basa en los niveles, las bombas y los power ups.
 
@@ -168,7 +168,7 @@ Los controles en multijugador local añaden la caqpacidad de que el segundo juga
 #### 2.9.2 - Multijugador online (WebSockets)
 Para la implementación y uso de Websockets se ha creado una clase llamada "MultiHandler". Esta clase maneja la llegada y el envío de información, y se ha de hacer cuando se pierde la conexión. Además, incluye varias estructuras de datos como colas y mapas hash para el almacenamiento y envío de datos. De la forma en la que está diseñada esta clase, se permite el juego a más de 2 jugadores, pero siempre en parejas de dos. El jugador que establezca conexión primero con el servidor será el jugador nº1, y el siguiente el nº2. De momento, este modo permite jugar en un mapa con dos personajes.
 
-## 3.0-Interfaz
+## 3-Interfaz
 
 ### 3.1- Menú de Juego
 
@@ -195,7 +195,7 @@ Interfaz de puntuación, esta interfaz sirve de transición entre mapas, en esta
 Por último, la última interfaz es la pantalla de victoria y derrota, donde pondrá el personaje del juego en grande y su nombre con un icono de victoria/derrota y aparecerán dos botones uno para volver a jugar y elegir de nuevo el personaje y otro botón para salir al menú inicial de juego.	
 
  
-## 4.0-Arte
+## 4-Arte
 ### 4.1- Interfaces de juego
 - Esquema de pantallas
 <img src="https://github.com/JavierVillaBlanco/Boom-And-Run-Curso-2022-2023/blob/main/Elementos%20para%20el%20juego/sources/Flowchart4.png" width="500">
@@ -263,7 +263,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/fondo.jpg" width="500">
 
 
-## 5.0 Música y efectos de sonido
+## 5 Música y efectos de sonido
 ### 5.1- Música
 Habrá varias pistas en el juego: 
 
@@ -274,10 +274,10 @@ Habrá varias pistas en el juego:
 ●	Una pista para cada mapa.
 
 ●	Una canción para la pantalla de resultados, la misma para todos los mapas. 
-## 6.0-Instrucciones de uso de la API Rest
+## 6-Instrucciones de uso de la API Rest
 Ante la imposibilidad de crear un .jar ejecutable funcional, para el uso del juego con la api es necesario tener instalado Eclipse con SpringBoot. Siendo necesario la creacion de un proyecto de Spring Web y copiando los archivos a las carpetas requeridas. 
 
-## 7.0-Bibliografía
+## 7-Bibliografía
 Este juego está basado en el videojuego clásico “Bomberman”. 
 
 - Web de Super Bomberman R: https://www.konami.com/games/bomberman/online/eu/es/
